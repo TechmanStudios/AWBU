@@ -1,6 +1,8 @@
 # A World Between Us Series Bible Outline
 
-The foundations follow the Version 1.0 brief and the owner's October 13, 2026 direction on surviving symbols of Resonance. Other development directions in this outline are proposals. Arc stages describe possible progression rather than a locked season or episode order. This outline remains in development.
+**Development status:** GO as the working series bible outline, approved by the owner on October 13, 2026. Art direction remains pending.
+
+The foundations follow the Version 1.0 brief and the owner's October 13, 2026 direction on surviving symbols of Resonance. Proposed directions guide development while their explicit choices remain open. Arc stages describe possible progression rather than a locked season or episode order.
 
 ## Story and emotional promise
 

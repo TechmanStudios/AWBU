@@ -42,6 +42,6 @@ The owner retains final creative approval over major story, character, and visua
 
 ## Immediate scope
 
-The charter and canon register are approved for development. Continue the preliminary bible and the surviving-symbols concept while preserving their unresolved choices. Next, seek creative approval for the proposed Shot 001 art direction, develop experimental frames, select an approved frame, then animate and review that shot.
+The Start Here development package is approved for use as the working plan, with art direction pending. The owner has created a Google Flow project and is gathering anime art examples. Wait for those references before continuing Shot 001 asset development. Then develop the original visual direction with the owner, revise the visual prompts, select an experimental frame, and animate and review the shot. Explicitly unresolved story and design choices remain open.
 
 Season scripts, definitive magic rules, final character designs, new paid services, and publication decisions remain future work.

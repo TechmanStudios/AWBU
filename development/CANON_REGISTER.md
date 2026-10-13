@@ -2,6 +2,8 @@
 
 **Development status:** GO — the owner approved the register and its status distinctions on October 13, 2026.
 
+The owner subsequently approved the full Start Here package as the working development plan, with art direction pending. The bible and teaser may guide development; entries explicitly marked provisional or unanswered still need their specific choices resolved. Shot 001 asset development waits for the owner's anime art references.
+
 Established foundations below come from the owner's Version 1.0 brief and subsequent explicit story direction. Working names identify the protagonists without finalizing those names. Approval of this register does not promote its provisional entries to canon. Development proposals require owner approval before they enter canon.
 
 ## Established foundations
@@ -73,4 +75,4 @@ Established foundations below come from the owner's Version 1.0 brief and subseq
 
 ## Approval record
 
-The supplied brief establishes C001–C014. On October 13, 2026, the owner placed the charter and this register in GO status and directed the addition of surviving, misunderstood symbols of Resonance, establishing C015–C016. P001–P005 and P101–P112 remain provisional; Q001–Q014 remain open. The bible outline and visual production choices have not received blanket approval. See `DECISION_LOG.md` for the recorded scope. Asset approval is tracked separately in the production manifest.
+The supplied brief establishes C001–C014. On October 13, 2026, the owner placed the charter and this register in GO status and directed the addition of surviving, misunderstood symbols of Resonance, establishing C015–C016. The owner then approved the Start Here package as the working development plan, including the bible outline, teaser plan, Shot 001 planning, tool workflow, and surviving-symbols approach. Art direction remains pending. P001–P005 and P101–P112 preserve their explicitly provisional choices; Q001–Q014 remain open. See `DECISION_LOG.md` for the recorded scope. Asset approval is tracked separately in the production manifest.

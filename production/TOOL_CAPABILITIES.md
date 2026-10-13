@@ -2,6 +2,8 @@
 
 Documentation reviewed October 13, 2026. These findings support planning; the owner's account and editing device have not been inspected.
 
+**Planning status:** GO, approved with the Start Here package on October 13, 2026. The owner reports creating a Google Flow project after reviewing its start page. Project details and available generation settings remain to be checked when Shot 001 development resumes after art direction is settled.
+
 ## Flow and Veo
 
 Google documents portrait and landscape single-start-frame video generation for Veo 3.1 Lite, Fast, and Quality, with 4-, 6-, and 8-second durations. Its current matrix lists Ingredients/References for Lite and Fast, but not Quality. Shot 001 therefore uses one selected starting frame rather than depending on the ingredients workflow. Check the active model, resolution, and credit cost before submitting. [Google Flow model and feature matrix](https://support.google.com/flow/answer/16352836?hl=en)

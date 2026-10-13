@@ -1,5 +1,7 @@
 # A World Between Us Proposed Art Direction
 
+**Status:** PENDING — the owner is gathering anime art examples. Discuss the appealing visual qualities and establish AWBU's original direction before revising Shot 001 prompts or producing reference frames. The directions below are the starting proposal and remain subject to that discussion.
+
 ## Visual identity
 
 Create a kingdom of suspended stone, river terraces, and deliberate gaps between structures. Paired curves separated by an interval can recur in arches, compositions, and later two-person framing. Surviving but misunderstood symbols of Resonance are now an established story premise. These particular curves are a candidate design; their exact geometry and meaning remain under review. A symbol's presence does not establish that the architecture operates through Resonance.

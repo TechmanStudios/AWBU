@@ -1,6 +1,6 @@
 # Resonance and Surviving Symbols
 
-**Status:** Core premise established by owner direction on October 13, 2026. Historical explanations, symbol designs, specific locations, and scene sequences below remain proposals.
+**Status:** GO as a working development approach, approved with the Start Here package on October 13, 2026. The core premise is established. Historical explanations, exact symbol designs, specific locations, and scene details retain their explicitly open choices. Visual design awaits the owner's anime art references.
 
 ## The established premise
 

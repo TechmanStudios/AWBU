@@ -1,5 +1,7 @@
 # A World Between Us Teaser Proposal
 
+**Status:** GO as the working teaser plan, approved by the owner on October 13, 2026. Art direction and asset development await the owner's anime references. Visual details will be revised to match the selected direction.
+
 ## Creative intent
 
 Let viewers feel the distance between two lives, then the possibility of closeness. The proposed teaser lasts 26 seconds in 9:16 and uses five shots. It introduces the world and the protagonists before offering a restrained mystery. It does not summarize the plot or depict Kael's awakening.

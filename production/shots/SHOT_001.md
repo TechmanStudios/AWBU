@@ -1,10 +1,12 @@
 # A World Between Us Shot 001 Specification
 
 **Title:** The Divided Kingdom  
-**Status:** Proposed direction awaiting owner approval  
+**Status:** GO for the production brief and asset planning; art direction pending owner-selected anime references  
 **Edit duration:** 6 seconds  
 **Generation target:** 6 seconds, 9:16, one continuous shot  
 **Narrative scope:** Establishing atmosphere and visible social distance; no protagonist reveal or Resonance demonstration
+
+The owner approved this planning document with the Start Here package on October 13, 2026. The composition, palette, rendering treatment, and prompts below remain visual drafts for revision after the art-reference discussion. Wait for that discussion before creating starting frames or video.
 
 ## Composition
 
