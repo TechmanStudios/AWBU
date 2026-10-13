@@ -1,0 +1,28 @@
+# Local credentials and session material
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials*.json
+cookies*.txt
+
+# Generated media and editing project binaries use a separate asset archive.
+# Documents, prompts, references to media, and provenance remain trackable.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+*.imovielibrary/
+*.imovieproj/
+
+# Working files
+__pycache__/
+.DS_Store
+Thumbs.db
+*.tmp

@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "project": "A World Between Us",
+  "asset_id": null,
+  "shot_id": "SH001",
+  "asset_type": null,
+  "specification_version": "0.1",
+  "attempt": null,
+  "production_status": "planned",
+  "narrative_status": "provisional",
+  "input_assets": [],
+  "submitted_prompt_path": null,
+  "tool": null,
+  "model": null,
+  "generation_id": null,
+  "generation_settings": {
+    "requested_aspect_ratio": "9:16",
+    "requested_duration_seconds": null,
+    "requested_resolution": null,
+    "seed_if_exposed": null
+  },
+  "credit_cost_if_shown": null,
+  "created_at": null,
+  "original_output_path": null,
+  "derived_outputs": [],
+  "output_properties": {
+    "width_pixels": null,
+    "height_pixels": null,
+    "duration_seconds": null,
+    "frame_rate": null,
+    "sha256": null
+  },
+  "source_and_usage_notes": [],
+  "review": {
+    "reviewer": null,
+    "outcome": null,
+    "notes": []
+  },
+  "owner_approval": {
+    "approved_by": null,
+    "approved_at": null,
+    "scope": null,
+    "reference": null
+  }
+}

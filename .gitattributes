@@ -1,0 +1,8 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Preserve the owner's original source brief byte for byte.
+source/MASTER_BRIEF_v1.0.txt -text
